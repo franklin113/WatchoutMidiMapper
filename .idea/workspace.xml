@@ -23,12 +23,12 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="-1924">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding>
-                <element signature="e#191#207#0" expanded="true" />
-                <element signature="e#970#1030#0" expanded="false" />
-                <element signature="e#1059#1370#0" expanded="false" />
+                <element signature="e#659#675#0" expanded="true" />
+                <element signature="e#1438#1498#0" expanded="false" />
+                <element signature="e#1527#1838#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -310,12 +310,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="-1924">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
           <folding>
-            <element signature="e#191#207#0" expanded="true" />
-            <element signature="e#970#1030#0" expanded="false" />
-            <element signature="e#1059#1370#0" expanded="false" />
+            <element signature="e#659#675#0" expanded="true" />
+            <element signature="e#1438#1498#0" expanded="false" />
+            <element signature="e#1527#1838#0" expanded="false" />
           </folding>
         </state>
       </provider>

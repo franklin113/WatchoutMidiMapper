@@ -1,9 +1,24 @@
 #!/usr/bin/env python
 
-"""Contains an example of midi input, and a separate example of midi output.
-By default it runs the output example.
-python midi.py --output
-python midi.py --input
+"""
+This small app uses pygame to read midi input data and copy the channel name to the clipboard.
+
+The idea is, you create a dictionary of midi channels where the values of each key are the names
+you assigned in watchout.
+
+For example,
+
+_1a - channel 21
+_2b - channel 30
+ect...
+
+The way I created the dictionary, this only really works with Korg nanoKontrol Studio, but you can
+just go in and change the dictionary to match.
+
+I've mapped each button to a row and column. Starting from the left, the columns run 1-8, rows a-d.
+
+In Watchout I added an underscore because you cannot begin an input with a number in the task window.
+
 """
 
 import pyperclip
