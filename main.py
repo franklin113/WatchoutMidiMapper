@@ -6,18 +6,13 @@ python midi.py --output
 python midi.py --input
 """
 
-import sys
-import os
 import pyperclip
 import pygame
 import pygame.midi
 from pygame.locals import *
 
 
-try:  # Ensure set available for output example
-	set
-except NameError:
-	from sets import Set as set
+
 
 def build_midi_dict():
 	finalDict={}
