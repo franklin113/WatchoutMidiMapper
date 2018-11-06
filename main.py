@@ -12,7 +12,7 @@ _1a - channel 21
 _2b - channel 30
 ect...
 
-The way I created the dictionary, this only really works with Korg nanoKontrol Studio, but you can
+The way I created the dictionary it only really works with Korg nanoKontrol Studio, but you can
 just go in and change the dictionary to match.
 
 I've mapped each button to a row and column. Starting from the left, the columns run 1-8, rows a-d.
